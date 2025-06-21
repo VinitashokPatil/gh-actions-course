@@ -13,7 +13,6 @@ jobs:
             - name: going to fail
               run: |
                     echo going to fail
-                    echo exit(0)
             - name: good bye
               run: echo bye
 
